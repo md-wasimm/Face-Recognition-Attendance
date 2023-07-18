@@ -1,6 +1,6 @@
 # Face-Recognition-Attendance
 
-It will recognize the faces through image encoding and then output their attendance to a CSV file with date and time.
+It will recognize the known faces through image encoding and then output their attendance to a CSV file with date and time.
 
 # Output:
 
